@@ -43,3 +43,9 @@ function same(arr1, arr2) {
 }
 
 // Time complexity O(n)
+
+
+// BONUS //
+
+// Write a function called sameFrequency given two positive integers, find out if the two numbers have the same frequency of digits. 
+
