@@ -87,3 +87,6 @@ function productOfArray(arr){
   if(arr.length === 0) return 1
   return arr[0] * productOfArray(arr.slice(1))
 }
+
+// Write a function called recursiveRange which accepts a number and adds up all the numbers from 0 to the number passed to the function
+
