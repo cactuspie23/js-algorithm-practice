@@ -80,3 +80,5 @@ factorial(1) // 1
 factorial(2) // 2
 factorial(4) // 24
 console.log(factorial(7)) // 5040
+
+// Write a function called productOfArray which takes in an array of numbers and returns the product of them all.
