@@ -54,3 +54,9 @@ function collectOddValues(arr){
 }
 
 console.log(collectOddValues([1,2,3,4,5]))
+
+
+// Practice recursion //
+
+// Write a function called power which accepts a base and an exponent. The function should return the power of the base to the exponent. 
+
